@@ -1,0 +1,34 @@
+Customer: cscsc
+Phone Number: cscsc
+Operative System Windows: Windows 8.1
+Operative System Windows Server: None
+Processor Brand Intel: Intel Core i7 8th Gen
+Processor Brand AMD: None
+RAM slots: 4  RAM Amount: 64 GB
+Hard Drive Storage: None
+Solid State Drive Storage: 32 TB
+Video Card: Nvidia Geforce Titan
+Display Inches: 23'   Display Resolution: 1280 x 768
+Does the costumer want ergonomic speakers?: false
+Does the costumer want ergonomic keyboard?: true
+Does the costumer want ergonomic mouse?: false
+***Comments:***
+hvgcjhjhgjj
+----------------------------------------------------------------------------------
+Customer: zxcxzczc
+Phone Number: czxccxzcz
+Operative System Windows: None
+Operative System Windows Server: None
+Processor Brand Intel: None
+Processor Brand AMD: None
+RAM slots: 0  RAM Amount: None
+Hard Drive Storage: None
+Solid State Drive Storage: None
+Video Card: None
+Display Inches: None   Display Resolution: None
+Does the costumer want ergonomic speakers?: false
+Does the costumer want ergonomic keyboard?: false
+Does the costumer want ergonomic mouse?: false
+***Comments:***
+
+----------------------------------------------------------------------------------
